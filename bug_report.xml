@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Summary>Нельзя оплатить товар в корзине, используя карту БПС банка</Summary>
+    <Environment>Windows 10 x64, Browser Google Chrome version 98.0.4758.102</Environment>
+    <Severity>Critical</Severity>
+    <Description>steps to reproduce</Description>
+    <step_1>открыть,ссылка на наш интернет магазин</step_1>
+    <step_2>добавить любой товар в корзину</step_2>
+    <step_3>оплатить выбранный товар картой БПС</step_3>
+    <Result>Оплата товара не проходит</Result>
+    <Expected_result>Оплата товара проходит успешно</Expected_result>
+    <Attachment>скрины или видео результата</Attachment>
+</root>
